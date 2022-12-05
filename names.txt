@@ -1,0 +1,4 @@
+Hello There!
+I am Harsh Srivastav, and this file I am wrinting using Vim! Proposterous,
+right? Well yes, but I kind of seem to enjoy it. Vim gives a lot more command
+over keyboard and is much more cool.
