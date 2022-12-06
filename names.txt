@@ -1,4 +1,6 @@
 Hello There!
 I am Harsh Srivastav, and this file I am wrinting using Vim! Proposterous,
 right? Well yes, but I kind of seem to enjoy it. Vim gives a lot more command
-over keyboard and is much more cool.
+over keyboard and is much more cool. 
+This is another change I am doing, just for fun. Today I learnt a lot about
+git
